@@ -1,5 +1,5 @@
 {
-  "name": "cc-test-npm",
+  "name": "cc-test-npm1",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christianacca/cc-test-npm.git"
+    "url": "git+https://github.com/christianacca/cc-test-npm1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/christianacca/cc-test-npm/issues"
+    "url": "https://github.com/christianacca/cc-test-npm1/issues"
   },
-  "homepage": "https://github.com/christianacca/cc-test-npm#readme"
+  "homepage": "https://github.com/christianacca/cc-test-npm1#readme"
 }
