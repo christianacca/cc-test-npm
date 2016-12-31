@@ -11,6 +11,15 @@
     "type": "git",
     "url": "https://github.com/christianacca/cc-test-npm1.git"
   },
+  "release": {
+    "branch": "next",
+    "fallbackTags": {
+      "next": "latest"
+    }
+  },
+  "publishConfig": {
+    "tag": "next"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
